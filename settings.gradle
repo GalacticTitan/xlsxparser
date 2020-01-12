@@ -1,0 +1,2 @@
+include ':app', ':androxlsxparser'
+rootProject.name='MXlsxparser'
