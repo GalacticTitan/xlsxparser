@@ -29,7 +29,7 @@ repositories {
 **Gradle Implementation**
 
 ```
-implementation 'com.github.kiranbjm:xlsxparser:1.0.1'
+implementation 'com.github.kiranbjm:xlsxparser:1.01'
 
 ```
 
