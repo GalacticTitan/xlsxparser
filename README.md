@@ -1,4 +1,4 @@
-# Excel Streaming Reader
+# Android Excel Streaming Reader
 
 [Credits](https://github.com/monitorjbl/excel-streaming-reader/)
 
